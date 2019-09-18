@@ -1,0 +1,14 @@
+C:\Users\RCP-Developer\Documents\StudentsApi\obj\Debug\netcoreapp2.2\StudentsApi.csprojAssemblyReference.cache
+C:\Users\RCP-Developer\Documents\StudentsApi\obj\Debug\netcoreapp2.2\StudentsApi.csproj.CoreCompileInputs.cache
+C:\Users\RCP-Developer\Documents\StudentsApi\obj\Debug\netcoreapp2.2\StudentsApi.RazorAssemblyInfo.cache
+C:\Users\RCP-Developer\Documents\StudentsApi\obj\Debug\netcoreapp2.2\StudentsApi.RazorAssemblyInfo.cs
+C:\Users\RCP-Developer\Documents\StudentsApi\obj\Debug\netcoreapp2.2\StudentsApi.AssemblyInfoInputs.cache
+C:\Users\RCP-Developer\Documents\StudentsApi\obj\Debug\netcoreapp2.2\StudentsApi.AssemblyInfo.cs
+C:\Users\RCP-Developer\Documents\StudentsApi\bin\Debug\netcoreapp2.2\StudentsApi.deps.json
+C:\Users\RCP-Developer\Documents\StudentsApi\bin\Debug\netcoreapp2.2\StudentsApi.runtimeconfig.json
+C:\Users\RCP-Developer\Documents\StudentsApi\bin\Debug\netcoreapp2.2\StudentsApi.runtimeconfig.dev.json
+C:\Users\RCP-Developer\Documents\StudentsApi\bin\Debug\netcoreapp2.2\StudentsApi.dll
+C:\Users\RCP-Developer\Documents\StudentsApi\bin\Debug\netcoreapp2.2\StudentsApi.pdb
+C:\Users\RCP-Developer\Documents\StudentsApi\obj\Debug\netcoreapp2.2\StudentsApi.RazorTargetAssemblyInfo.cache
+C:\Users\RCP-Developer\Documents\StudentsApi\obj\Debug\netcoreapp2.2\StudentsApi.dll
+C:\Users\RCP-Developer\Documents\StudentsApi\obj\Debug\netcoreapp2.2\StudentsApi.pdb
